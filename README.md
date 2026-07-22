@@ -42,7 +42,7 @@ This project analyzes customer churn using the IBM Telco Customer Churn dataset.
 
 ## 📸 Dashboard Preview
 
-> Upload your dashboard screenshot as ![Customer Churn Dashboard](Customer%20Churn%20Behavior.png) and replace the line below with the image.
+>  ![Customer Churn Dashboard](Customer%20Churn%20Behavior.png) 
 
 ```markdown
 ![Customer Churn Dashboard](Customer%20Churn%20Behavior.png)
