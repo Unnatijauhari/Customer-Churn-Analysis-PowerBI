@@ -59,7 +59,7 @@ This project analyzes customer churn using the IBM Telco Customer Churn dataset.
 ---
 
 ## 👩‍💻 Author
-Unnati Jauhari
+
 **Unnati Jauhari**
 
 Data Analytics Enthusiast | Power BI | SQL | Python | Excel
